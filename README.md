@@ -1,8 +1,7 @@
-# :earth_americas: GDP dashboard template
+# MoneyMagnet Trading App & Dashboard
 
-A simple Streamlit app showing the GDP of different countries in the world.
+A simple Streamlit app to display market data and strategies and execute trades using webull 
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://gdp-dashboard-template.streamlit.app/)
 
 ### How to run it on your own machine
 
