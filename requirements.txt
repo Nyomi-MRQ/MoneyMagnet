@@ -1,2 +1,9 @@
 streamlit
 pandas
+plotly
+datetime
+pillow
+numpy
+matplotlib
+webull
+yfinance
